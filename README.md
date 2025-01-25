@@ -1,1 +1,1 @@
-# restaurant
+A restaurant home page.
